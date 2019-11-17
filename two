@@ -1,0 +1,25 @@
+package test;
+public class two{
+	public static void main(String args[]) throws three
+	{   one one;
+        String kong;
+		kong  = "一";
+		try {
+		one = new one(kong);
+		if(kong.equals(""))
+		{
+			throw new three("不能输入空字符");
+		}
+		else 
+			System.out.println(one);
+		}
+		catch (three e) 
+		{
+			e.printStackTrace();
+		}
+		finally 
+		{
+			System.out.print("程序运行结束");
+		}
+    }
+}
