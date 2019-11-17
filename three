@@ -1,0 +1,6 @@
+package test;
+public class three extends Exception{
+	public three(String str){ 
+           System.out.println (str);
+ 	}
+}
