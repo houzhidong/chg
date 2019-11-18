@@ -38,5 +38,5 @@ public class one {
 	StringBuffer s = new StringBuffer(x);
 # 六、实验结果
 ![image](https://github.com/houzhidong/chg/blob/master/syjg.png)
-七、实验感想
+# 七、实验感想
 这次实验我对java有了更多的了解，知道了字符串String。学会了异常处理结构。实验过程中经常遇到不会的问题，这时便在网上寻找解决办法，找不到便讨论，最终解决问题。编写代码时要认真仔细，这样才能减少程序出错。希望以后在java实验中学到更多东西。
